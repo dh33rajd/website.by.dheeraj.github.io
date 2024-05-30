@@ -78,6 +78,7 @@ header {
   background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
+  text-align: center;
   color: #F7FFF7;
 }
 
